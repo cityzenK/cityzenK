@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=go,spring,nodejs,js,java,dotnet)](https://skillicons.dev)
 <!--
 **cityzenK/cityzenK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
